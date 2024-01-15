@@ -9,6 +9,7 @@ public class Main {
 
       Linia linia1 = new Linia(punt6,punt7,2);
 
+
       Area area1 = new Area(punt6,punt7,punt8,40);
         System.out.println(punt6);
         System.out.println(punt7);
